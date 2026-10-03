@@ -2,6 +2,6 @@ networkx~=3.2.1
 matplotlib
 pandas~=2.2.1
 pip~=24.0
-
-numpy~=1.24.3
-torch~=2.5.0.dev20240708+cu124
+numpy~=1.26.4
+scikit-learn~=1.5.2
+torch==2.5.1
